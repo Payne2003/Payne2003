@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tran Quoc Tuan and I'm a Web Developer, Android, IOS, from VietNam</h2>
+<h2 align="left">Hi 👋! My name is Tran Quoc Tuan and I'm a Web Developer, Android, IOS, Automation , Python from VietNam</h2>
 
 ###
 
